@@ -1,0 +1,28 @@
+body {
+    background-color:hsl(212, 45%, 89%);
+  }
+.card{
+    width: 19rem;
+    margin: 5rem auto;
+    padding: 1rem;
+    display: flexbox;
+    border-radius: 1rem;
+}
+.card-img-top{
+    border-radius: 1rem;
+}
+.card-title{
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    font-family: 'Outfit', sans-serif;
+}
+.card-text{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
